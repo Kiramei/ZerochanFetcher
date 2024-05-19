@@ -1,0 +1,5 @@
+# For now, this is just a placeholder for the future.
+# PyQt-Fluent-Widgets
+
+bs4
+requests
