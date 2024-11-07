@@ -2,7 +2,7 @@
 
 > Have fun with our tool!🤩
 
-A simple python script to fetch images from [zerochan.net](zerochan.net). 😊
+A simple python script to fetch images from [zerochan.net](https://www.zerochan.net). 😊
 And this is a specific version for fetching images of Tentou Alice.🥳
 
 ## Requirements
